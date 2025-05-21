@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Nasi Goreng Spesial",
+    "price": 20000,
+    "image": "/img/nasi-goreng.png"
+  },
+  {
+    "id": 2,
+    "name": "Mie Ayam",
+    "price": 18000,
+    "image": "/img/mie-ayam.png"
+  },
+  {
+    "id": 3,
+    "name": "Sate Ayam",
+    "price": 25000,
+    "image": "/img/sate-ayam.png"
+  },
+  {
+    "id": 4,
+    "name": "Gado-Gado",
+    "price": 15000,
+    "image": "/img/gado-gado.png"
+  },
+  {
+    "id": 5,
+    "name": "Rendang Daging",
+    "price": 30000,
+    "image": "/img/rendang-daging.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Soto Ayam",
+    "price": 17000,
+    "image": "/img/soto-ayam.png"
+  },
+  {
+    "id": 7,
+    "name": "Bakso Urat",
+    "price": 16000,
+    "image": "/img/bakso-urat.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Pisang Goreng",
+    "price": 8000,
+    "image": "/img/pisang-goreng.png"
+  }
+]
